@@ -4,7 +4,7 @@ blah
 blah
 blah
 blah
-Je m'appelle Bob.
+Je m'appelle Erwan.
 Hier soir, je suis allé au bar et j'y ai rencontré Patrick.
 blah
 blah
@@ -16,7 +16,7 @@ blah
 blah
 blah
 blah
-En chemin, Plancton m'a cogné la tête avant de me voler la recette de pâté de crabs.
+En chemin, Arnaud m'a cogné la tête avant de me voler.
 Depuis, je ne sais plus coder qu'en Latex.
 blah
 blah
